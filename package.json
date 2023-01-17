@@ -1,0 +1,24 @@
+{
+  "name": "material-progress-bar",
+  "version": "0.0.1",
+  "description": "Material progress bar for your website",
+  "main": "mprogress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brokiem/material-progress-bar.git"
+  },
+  "keywords": [
+    "material",
+    "progress",
+    "bar"
+  ],
+  "author": "brokiem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brokiem/material-progress-bar/issues"
+  },
+  "homepage": "https://github.com/brokiem/material-progress-bar#readme"
+}
