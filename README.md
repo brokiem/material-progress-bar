@@ -13,7 +13,7 @@ npm install material-progress-bar
 Import the files:
 
 ```javascript
-import 'material-progress-bar/mprogress.js';
+import {MProgress} from 'material-progress-bar/mprogress.js';
 import 'material-progress-bar/mprogress.css';
 ```
 

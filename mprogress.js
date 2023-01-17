@@ -1,4 +1,4 @@
-const MProgress = {};
+export const MProgress = {};
 
 MProgress.show = function() {
     document.getElementById('mprogress').classList.remove('mprogress-hidden');
