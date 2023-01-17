@@ -1,4 +1,4 @@
-const MProgress = {};
+var MProgress = {};
 
 MProgress.show = function() {
     document.getElementById('mprogress').classList.remove('mprogress-hidden');
@@ -8,12 +8,4 @@ MProgress.show = function() {
 MProgress.hide = function() {
     document.getElementById('mprogress').classList.remove('mprogress-visible');
     document.getElementById('mprogress').classList.add('mprogress-hidden');
-}
-
-export function show() {
-    MProgress.show();
-}
-
-export function hide() {
-    MProgress.hide();
 }
