@@ -13,8 +13,8 @@ npm install material-progress-bar
 Import JavaScript and CSS to your HTML
 
 ```html
-<script src="mprogress.js"></script>
-<link rel="stylesheet" href="mprogress.css">
+<script src="https://cdn.jsdelivr.net/gh/brokiem/material-progress-bar@master/mprogress.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/brokiem/material-progress-bar@master/mprogress.css">
 ```
 
 ```javascript
