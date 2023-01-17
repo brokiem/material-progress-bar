@@ -1,6 +1,6 @@
 {
   "name": "material-progress-bar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Material progress bar for your website",
   "main": "mprogress.js",
   "scripts": {
